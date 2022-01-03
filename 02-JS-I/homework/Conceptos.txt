@@ -1,0 +1,18 @@
+Variables
+las variables son un lugar donde puedo guardar un dato para después recuperarlo 
+y poder usarlo
+
+Strings
+Los strings son palabras o hilos de caracteres se los delimita por comillas simples 
+
+Funciones 
+Es una porción de código que se hace cuando se tiene que repetir varias veces el 
+mismo
+
+If 
+nos permite agregar lógica a nuestro código es decir, podemos hacer preguntas y 
+ejecutar diferentes códigos según una condición.
+
+Valor Booleanos 
+Estos pueden ser True (verdadero)  o False (falso) es decir representan un valor
+º de verdad
