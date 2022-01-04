@@ -1,0 +1,11 @@
+For: es una estructura de repetición, la cual se repite hasta un número máximo de veces,
+este número puede variar dependiendo de nuestra necesidad.
+
+&&: esto en castellano seria "Y" y nos sirve para unir condiciones, es decir,
+si es verdadero A "Y" también B seguimos. Es decir, todas las condiciones tienen 
+que ser verdaderas.
+
+||: este en cambio es "O", también nos sirve para unir condiciones, si A "O" B son verdaderos
+seguimos. Es decir, una de las condiciones es suficiente para que sea verdadero.
+
+!: este símbolo es NO, es decir si A es verdadero !A esto sería falso.
