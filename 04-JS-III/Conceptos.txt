@@ -1,0 +1,4 @@
+Arrays: son listas de elementos que pueden contener cualquier tipo de dato, ya sea numero, letras, null, una funcion,
+otro arreglo. 
+se declara de esta forma 
+var array = [] este es un arreglo vacio
