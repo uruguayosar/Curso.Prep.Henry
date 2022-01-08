@@ -1,0 +1,20 @@
+Objetos: Un objeto es una coleccion de datos, que pueden ser variables que serian las propiedades del objeto,
+o funciones que serian los metodos de un objeto.
+
+Propiedades:  son datos que pueden ser strings, numeros, booleanos, y estan asociadas a un valor, estas 
+son las propiedades. 
+
+Metodos: puedo crear dentro de un objeto una funcion que devuelva un valor o que haga alguna accion, y estas
+son los metodos.
+
+For in: sirve para recorrer las propiedades y metodos de un objeto y asi poder acceder a su contenido.
+for (nombre propiedad in objeto){
+
+}
+
+Notacion de puntos: o Dot Notation, es como acceder a una propiedad o metodo de un objeto objeto.propiedad
+esta va hacer la mas usada
+
+Notacion de Corchetes: o Bracket Notation es otra forma de acceder mediante corchetes objeto[propieda]
+
+
