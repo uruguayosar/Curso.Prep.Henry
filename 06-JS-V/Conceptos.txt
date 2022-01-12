@@ -1,0 +1,14 @@
+Prototype: es la forma en que los objetos heredan caracteristicas uno de otros. 
+es decir todos los objetos tinen una referencia a otro objeto.
+
+Constructor: es un metodo para crear un objeto a partir de un comando llamado
+class
+
+class Objeto1 {
+    Constructor(){
+        propiedad0
+        propiedad1
+        .....
+    }
+    Metod.
+}
