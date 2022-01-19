@@ -1,0 +1,2 @@
+Callback, es una función la cual se pasa como parámetro a otra función, es decir a una función le paso como
+parámetro otra función para seguir ejecutando el código, esto hace que podamos mejorar nuestro código.
