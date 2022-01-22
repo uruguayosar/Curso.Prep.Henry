@@ -1,0 +1,36 @@
+.contenedor{
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items:center;
+  align-items: center;
+  -webkit-justify-content:center;
+  justify-content: center; 
+  flex-direction: column; 
+}
+.contenedor h1{
+    color:red;
+} 
+img{
+    width:400px;
+}
+img{
+    width: 300px;
+}
+#thirdDiv{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 500px;
+    background-color: darkgray;
+    padding: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: tomato;
+}
+#spanId {
+    align-self:center;
+    font-size: 18px;
+    margin: 50;
+}
+
+
